@@ -6,7 +6,7 @@ Biomedical Data Scientist | Cancer genomics | ctDNA | AI Pathology | ex-Cambridg
 🔬 **Postdoc in ctDNA Methylation**, University of Cambridge  
 🏥 **Current**: Biomedical Data Scientist @ Lunit (Digital Pathology, AI in Oncology)  
 
-I work at the intersection of genomics, clinical oncology, and machine learning. My core focus is developing **biomarker-driven diagnostics** and **AI-powered tools** for cancer precision medicine.
+- I work at the intersection of genomics, clinical oncology, and machine learning. My core focus is developing **biomarker-driven diagnostics** and **AI-powered tools** for cancer precision medicine.
 ---
 ## 🧬 My Interests
 - Liquid Biopsy (ctDNA / methylation / MRD)
