@@ -2,7 +2,7 @@
 Biomedical Data Scientist | Cancer genomics | ctDNA | AI Pathology | ex-Cambridge 
 
 ---
-🎓 **PhD in Cancer Genomics**, Seoul National University  
+🎓 **PhD in Cancer Genomics - ctDNA**, Seoul National University  
 🔬 **Postdoc in ctDNA Methylation**, University of Cambridge  
 🏥 **Current**: Biomedical Data Scientist @ Lunit (Digital Pathology, AI in Oncology)  
 
